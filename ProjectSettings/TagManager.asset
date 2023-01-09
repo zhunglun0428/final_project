@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - land_19
+  - land_10
+  - land_2
+  - land_8
+  - land_3
+  - land_17
+  - land_18
+  - land_5
+  - land_9
+  - land_16
+  - land_15
+  - land_21
+  - land_13
+  - land_20
+  - land_14
+  - land_11
+  - land_1
+  - land_4
+  - land_7
+  - land_12
+  - land_6
+  - fate
+  - money
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
